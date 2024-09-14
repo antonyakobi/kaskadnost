@@ -1,0 +1,29 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(238, 247, 253);
+}
+
+#myText {
+    color: rgb(190, 217, 243);
+}
+
+p#myText {
+    padding: 20px;
+    color: black;
+}
+
+p {
+    color: green !important;
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+
+.bordered {
+    border: 5px solid rgb(72, 101, 155);
+}
